@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-28:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9f7e7a548ad00e2e3c3268a409525997/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d6fdfaaabf2017e1a46426335e1b873c/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [:video_player] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/video_player-0.10.12+5/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.3+4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.3.2+2/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.11/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_cookie_manager] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_cookie_manager-1.0.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:webview_flutter] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-1.0.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.27/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.12+4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/2caca0665cfc150845d481add640d717/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/7f3965b4f5235273164a4cb8d86e6a3b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/728b34f62e23624a24daa216083264b2/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1c867de8727b52b88cec2ad3aed090ac/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/7f050f7f6c6c3cfd1b005dbb5aa8afc3/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1435e0b5216c3fd72a2d6579c29d3ee1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/25c53a2e5b7e812bc478b7b8a5cb963c/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/78f8b738e12e747eb3957a417c441362/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/4d0d4b428c3b34bdf15c74a6f9a99553/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/035487676af6db782633ffbdc1d98b21/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:5:5-35:19
+MERGED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-26:19
+MERGED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d6fdfaaabf2017e1a46426335e1b873c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d6fdfaaabf2017e1a46426335e1b873c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	tools:node
+		ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:18-36
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.peter.myapplication.MainActivity
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:23:9-28:58
+	android:hardwareAccelerated
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:28:13-55
+	android:configChanges
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:25:13-144
+	android:theme
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:24:13-72
+activity#com.peter.myapplication.BridgeActivity
+ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:29:9-34:58
+	android:hardwareAccelerated
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:32:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:34:13-55
+	android:configChanges
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:31:13-144
+	android:theme
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:30:13-43
+uses-sdk
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+MERGED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9f7e7a548ad00e2e3c3268a409525997/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9f7e7a548ad00e2e3c3268a409525997/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d6fdfaaabf2017e1a46426335e1b873c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d6fdfaaabf2017e1a46426335e1b873c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/video_player-0.10.12+5/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/video_player-0.10.12+5/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.3+4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.3+4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.3.2+2/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.3.2+2/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.11/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.11/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_cookie_manager] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_cookie_manager-1.0.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_cookie_manager] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_cookie_manager-1.0.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-1.0.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-1.0.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.27/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.27/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.12+4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.12+4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/2caca0665cfc150845d481add640d717/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/2caca0665cfc150845d481add640d717/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/7f3965b4f5235273164a4cb8d86e6a3b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/7f3965b4f5235273164a4cb8d86e6a3b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/728b34f62e23624a24daa216083264b2/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/728b34f62e23624a24daa216083264b2/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1c867de8727b52b88cec2ad3aed090ac/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1c867de8727b52b88cec2ad3aed090ac/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/7f050f7f6c6c3cfd1b005dbb5aa8afc3/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/7f050f7f6c6c3cfd1b005dbb5aa8afc3/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1435e0b5216c3fd72a2d6579c29d3ee1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1435e0b5216c3fd72a2d6579c29d3ee1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/25c53a2e5b7e812bc478b7b8a5cb963c/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/25c53a2e5b7e812bc478b7b8a5cb963c/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/78f8b738e12e747eb3957a417c441362/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/78f8b738e12e747eb3957a417c441362/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/4d0d4b428c3b34bdf15c74a6f9a99553/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/4d0d4b428c3b34bdf15c74a6f9a99553/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/035487676af6db782633ffbdc1d98b21/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/035487676af6db782633ffbdc1d98b21/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-64
+meta-data#flutterProjectType
+ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:38
+	android:value
+		ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-35
+	android:name
+		ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-46
+meta-data#flutterEmbedding
+ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:33
+	android:value
+		ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-30
+	android:name
+		ADDED from [:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-44
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:22-76

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cx580/fluttermodule/BuildConfig.java
+ com.cx580.fluttermodule.BuildConfig
