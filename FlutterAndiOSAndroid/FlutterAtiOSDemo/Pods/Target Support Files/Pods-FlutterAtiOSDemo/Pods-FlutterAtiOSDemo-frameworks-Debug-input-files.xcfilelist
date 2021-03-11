@@ -1,6 +1,5 @@
 ${PODS_ROOT}/Target Support Files/Pods-FlutterAtiOSDemo/Pods-FlutterAtiOSDemo-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
-${PODS_ROOT}/../../flutter_module/.ios/Flutter/engine/Flutter.framework
 ${PODS_ROOT}/../../flutter_module/.ios/Flutter/App.framework
 ${BUILT_PRODUCTS_DIR}/package_info/package_info.framework
 ${BUILT_PRODUCTS_DIR}/path_provider/path_provider.framework
@@ -10,3 +9,4 @@ ${BUILT_PRODUCTS_DIR}/url_launcher/url_launcher.framework
 ${BUILT_PRODUCTS_DIR}/video_player/video_player.framework
 ${BUILT_PRODUCTS_DIR}/webview_cookie_manager/webview_cookie_manager.framework
 ${BUILT_PRODUCTS_DIR}/webview_flutter/webview_flutter.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Flutter/Flutter.framework/Flutter

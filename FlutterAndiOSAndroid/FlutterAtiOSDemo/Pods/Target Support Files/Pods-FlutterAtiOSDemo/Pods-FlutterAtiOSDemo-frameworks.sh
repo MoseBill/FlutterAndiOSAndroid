@@ -176,7 +176,6 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework"
-  install_framework "${PODS_ROOT}/../../flutter_module/.ios/Flutter/engine/Flutter.framework"
   install_framework "${PODS_ROOT}/../../flutter_module/.ios/Flutter/App.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/package_info/package_info.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/path_provider/path_provider.framework"
@@ -186,10 +185,10 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/video_player/video_player.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/webview_cookie_manager/webview_cookie_manager.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/webview_flutter/webview_flutter.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/Flutter/Flutter.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework"
-  install_framework "${PODS_ROOT}/../../flutter_module/.ios/Flutter/engine/Flutter.framework"
   install_framework "${PODS_ROOT}/../../flutter_module/.ios/Flutter/App.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/package_info/package_info.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/path_provider/path_provider.framework"
@@ -199,6 +198,7 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/video_player/video_player.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/webview_cookie_manager/webview_cookie_manager.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/webview_flutter/webview_flutter.framework"
+  install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/Flutter/Flutter.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

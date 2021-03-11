@@ -1,15 +1,11 @@
 com/peter/myapplication/BuildConfig.java
  com.peter.myapplication.BuildConfig
-com/peter/myapplication/BridgeActivity.java
- com.peter.myapplication.BridgeActivity
- com.peter.myapplication.BridgeActivity$MyCachedEngineIntentBuilder
- com.peter.myapplication.BridgeActivity$MyNewEngineIntentBuilder
 com/peter/myapplication/TestMethodChannelActivity.java
  com.peter.myapplication.TestMethodChannelActivity
  com.peter.myapplication.TestMethodChannelActivity$1
 com/peter/myapplication/MainActivity.java
  com.peter.myapplication.MainActivity
- com.peter.myapplication.MainActivity$1
- com.peter.myapplication.MainActivity$1$1
- com.peter.myapplication.MainActivity$MyReceiver
- com.peter.myapplication.MainActivity$MyReceiver$1
+com/peter/myapplication/BridgeActivity.java
+ com.peter.myapplication.BridgeActivity
+ com.peter.myapplication.BridgeActivity$MyCachedEngineIntentBuilder
+ com.peter.myapplication.BridgeActivity$MyNewEngineIntentBuilder

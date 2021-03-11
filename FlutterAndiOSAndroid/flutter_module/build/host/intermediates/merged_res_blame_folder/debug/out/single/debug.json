@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/daniel/flutter_template/FlutterTemplate/flutter_module/build/host/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/daniel/flutter_template/FlutterTemplate/flutter_module/build/host/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/res/drawable/launch_background.xml"
+    }
+]

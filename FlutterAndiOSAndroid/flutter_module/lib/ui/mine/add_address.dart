@@ -57,7 +57,7 @@ class _AddAddressState extends State<AddAddress> with TickerProviderStateMixin {
         FocusScope.of(context).requestFocus(FocusNode());
       },
       child: Scaffold(
-        resizeToAvoidBottomPadding: false,
+//        resizeToAvoidBottomPadding: false,
         backgroundColor: backColor,
         appBar: TabAppBar(
           title: '地址管理',

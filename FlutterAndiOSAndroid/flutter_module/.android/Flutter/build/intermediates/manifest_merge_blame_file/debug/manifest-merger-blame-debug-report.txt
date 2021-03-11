@@ -9,7 +9,7 @@
 9    <uses-sdk
 10        android:minSdkVersion="16"
 10-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/src/main/AndroidManifest.xml
-11        android:targetSdkVersion="29" />
+11        android:targetSdkVersion="30" />
 11-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/src/main/AndroidManifest.xml
 12
 13    <uses-permission android:name="android.permission.INTERNET" />

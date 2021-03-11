@@ -66,10 +66,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    return ScreenUtilInit(
-      designSize: Size(360, 690),
-      allowFontScaling: false,
-      child: MaterialApp(
+    return  MaterialApp(
         // flutter build appbundle --target-platform android-arm
         theme: ThemeData(
           backgroundColor: Colors.transparent,
@@ -90,7 +87,7 @@ class _MyAppState extends State<MyApp> {
         //国际化-----------------------------------------------
 
         home: MainPage(),
-      ),
+
     );
   }
 }

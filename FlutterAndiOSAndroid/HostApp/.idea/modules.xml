@@ -6,15 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HostApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HostApp.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-740299543/HostApp.flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-740299543/HostApp.flutter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/1091170900/HostApp.flutter_module.iml" filepath="$PROJECT_DIR$/.idea/modules/1091170900/HostApp.flutter_module.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1885523266/com.tekartik.sqflite.HostApp.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1885523266/com.tekartik.sqflite.HostApp.sqflite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1524221679/io.flutter.plugins.flutter_plugin_android_lifecycle.HostApp.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1524221679/io.flutter.plugins.flutter_plugin_android_lifecycle.HostApp.flutter_plugin_android_lifecycle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/620743462/io.flutter.plugins.packageinfo.HostApp.package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/620743462/io.flutter.plugins.packageinfo.HostApp.package_info.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1774526236/io.flutter.plugins.pathprovider.HostApp.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1774526236/io.flutter.plugins.pathprovider.HostApp.path_provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/891601512/io.flutter.plugins.sharedpreferences.HostApp.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/891601512/io.flutter.plugins.sharedpreferences.HostApp.shared_preferences.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-435014652/io.flutter.plugins.urllauncher.HostApp.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-435014652/io.flutter.plugins.urllauncher.HostApp.url_launcher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1024295332/io.flutter.plugins.videoplayer.HostApp.video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1024295332/io.flutter.plugins.videoplayer.HostApp.video_player.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947539599/io.flutter.plugins.webview_cookie_manager.HostApp.webview_cookie_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/947539599/io.flutter.plugins.webview_cookie_manager.HostApp.webview_cookie_manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-632267843/io.flutter.plugins.webviewflutter.HostApp.webview_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-632267843/io.flutter.plugins.webviewflutter.HostApp.webview_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-488690138/HostApp.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-488690138/HostApp.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1351285071/HostApp.package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1351285071/HostApp.package_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1043984627/HostApp.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1043984627/HostApp.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/542770207/HostApp.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/542770207/HostApp.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1550097077/HostApp.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1550097077/HostApp.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/281287867/HostApp.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/281287867/HostApp.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/946521669/HostApp.video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/946521669/HostApp.video_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1211216569/HostApp.webview_cookie_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/1211216569/HostApp.webview_cookie_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/693620272/HostApp.webview_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/693620272/HostApp.webview_flutter.iml" />
     </modules>
   </component>
 </project>

@@ -7,7 +7,7 @@
 7    <uses-sdk
 8        android:minSdkVersion="16"
 8-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="29" />
+9        android:targetSdkVersion="30" />
 9-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml
 10
 11    <!--
@@ -19,90 +19,82 @@
 16-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:9:5-66
 16-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:9:22-64
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/702594ce55b166ef7da696566dda39dd/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
-17-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/702594ce55b166ef7da696566dda39dd/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:22-76
-18    <!--
-19 io.flutter.app.FlutterApplication is an android.app.Application that
-20         calls FlutterMain.startInitialization(this); in its onCreate method.
-21         In most cases you can leave this as-is, but you if you want to provide
-22         additional functionality it is fine to subclass or reimplement
-23         FlutterApplication and put your custom class here.
-24    -->
-25    <application
-25-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:16:5-44:19
-26        android:name="io.flutter.app.FlutterApplication"
-26-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:17:9-57
-27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-27-->[androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/AndroidManifest.xml:24:18-86
-28        android:debuggable="true"
-29        android:icon="@mipmap/ic_launcher"
-29-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:19:9-43
-30        android:label="fluttermodule" >
-30-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:18:9-38
-31        <activity
-31-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:20:9-38:20
-32            android:name="com.cx580.fluttermodule.host.MainActivity"
-32-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:21:13-41
-33            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-33-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:24:13-163
-34            android:hardwareAccelerated="true"
-34-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:25:13-47
-35            android:launchMode="singleTop"
-35-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:22:13-43
-36            android:theme="@style/LaunchTheme"
-36-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:23:13-47
-37            android:windowSoftInputMode="adjustResize" >
-37-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:26:13-55
-38
-39            <!--
-40                 This keeps the window background of the activity showing
-41                 until Flutter renders its first frame. It can be removed if
-42                 there is no splash screen (such as the default splash screen
-43                 defined in @style/LaunchTheme).
-44            -->
-45            <meta-data
-45-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:31:13-33:40
-46                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-46-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:32:17-82
-47                android:value="true" />
-47-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:33:17-37
-48
-49            <intent-filter>
-49-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:34:13-37:29
-50                <action android:name="android.intent.action.MAIN" />
-50-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:35:17-68
-50-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:35:25-66
-51
-52                <category android:name="android.intent.category.LAUNCHER" />
-52-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:36:17-76
-52-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:36:27-74
-53            </intent-filter>
-54        </activity>
-55        <!--
-56             Don't delete the meta-data below.
-57             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-58        -->
-59        <meta-data
-59-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:41:9-43:33
-60            android:name="flutterEmbedding"
-60-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:42:13-44
-61            android:value="2" />
-61-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:43:13-30
-62        <meta-data
-62-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:38
-63            android:name="flutterProjectType"
-63-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-46
-64            android:value="module" />
-64-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-35
-65
-66        <activity
-66-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
-67            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-67-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
-68            android:exported="false"
-68-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
-69            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-69-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
-70    </application>
-71
-72</manifest>
+17-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55af7c4f685b0c64ff3de659c579b04b/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
+17-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55af7c4f685b0c64ff3de659c579b04b/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:22-76
+18
+19    <application
+19-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:11:5-38:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:13:9-43
+23        android:label="fluttermodule" >
+23-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:12:9-38
+24        <activity
+24-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:14:9-32:20
+25            android:name="com.cx580.fluttermodule.host.MainActivity"
+25-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:15:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:18:13-163
+27            android:hardwareAccelerated="true"
+27-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:19:13-47
+28            android:launchMode="singleTop"
+28-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:16:13-43
+29            android:theme="@style/LaunchTheme"
+29-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:17:13-47
+30            android:windowSoftInputMode="adjustResize" >
+30-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:20:13-55
+31
+32            <!--
+33                 This keeps the window background of the activity showing
+34                 until Flutter renders its first frame. It can be removed if
+35                 there is no splash screen (such as the default splash screen
+36                 defined in @style/LaunchTheme).
+37            -->
+38            <meta-data
+38-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:25:13-27:40
+39                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+39-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:26:17-82
+40                android:value="true" />
+40-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:27:17-37
+41
+42            <intent-filter>
+42-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:28:13-31:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:29:17-68
+43-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:29:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:30:17-76
+45-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:30:27-74
+46            </intent-filter>
+47        </activity>
+48        <!--
+49             Don't delete the meta-data below.
+50             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+51        -->
+52        <meta-data
+52-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:35:9-37:33
+53            android:name="flutterEmbedding"
+53-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:36:13-44
+54            android:value="2" />
+54-->/Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/app/src/main/AndroidManifest.xml:37:13-30
+55        <meta-data
+55-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:38
+56            android:name="flutterProjectType"
+56-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-46
+57            android:value="module" />
+57-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-35
+58
+59        <activity
+59-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+60            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+60-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+61            android:exported="false"
+61-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+62            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+62-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+63    </application>
+64
+65</manifest>

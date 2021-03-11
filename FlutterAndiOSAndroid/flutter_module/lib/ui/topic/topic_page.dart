@@ -204,7 +204,7 @@ class _TopicPageState extends State<TopicPage>
             decoration: BoxDecoration(
                 color: Colors.white, borderRadius: BorderRadius.circular(8)),
             child: CachedNetworkImage(
-              height: ScreenUtil().setHeight(150),
+              height: 150,
               imageUrl: item['picUrl'],
               fit: BoxFit.cover,
             ),
@@ -344,7 +344,7 @@ class _TopicPageState extends State<TopicPage>
       slivers: <Widget>[
         SliverAppBar(
           pinned: true,
-          expandedHeight: ScreenUtil().setHeight(220),
+          expandedHeight: 220,
           backgroundColor: Colors.white,
           brightness: Brightness.light,
           title: _buildSearch(context),
@@ -402,8 +402,8 @@ class _TopicPageState extends State<TopicPage>
                       children: [
                         Expanded(
                             child: Container(
-                          height: ScreenUtil().setHeight(50),
-                          width: ScreenUtil().setHeight(50),
+                          height: 50,
+                          width: 50,
                           child: CachedNetworkImage(
                             imageUrl: item['picUrl'],
                           ),
@@ -412,8 +412,7 @@ class _TopicPageState extends State<TopicPage>
                           margin: EdgeInsets.only(top: 2),
                           child: Text('${item['mainTitle']}',
                               style: TextStyle(
-                                  fontSize: ScreenUtil()
-                                      .setSp(12, allowFontScalingSelf: false),
+                                  fontSize: 12,
                                   color: textBlack),
                               maxLines: 1),
                         ),
@@ -422,8 +421,7 @@ class _TopicPageState extends State<TopicPage>
                           child: Text(
                             '${item['viceTitle']}',
                             style: TextStyle(
-                                fontSize: ScreenUtil()
-                                    .setSp(11, allowFontScalingSelf: false),
+                                fontSize: 11,
                                 color: textGrey),
                             maxLines: 1,
                           ),

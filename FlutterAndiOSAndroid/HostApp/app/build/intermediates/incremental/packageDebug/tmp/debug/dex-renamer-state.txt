@@ -1,4 +1,4 @@
-#Tue Feb 02 11:14:52 GST 2021
+#Wed Mar 10 14:34:46 GST 2021
 base.2=/Users/daniel/flutter_template/FlutterTemplate/HostApp/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
 base.1=/Users/daniel/flutter_template/FlutterTemplate/HostApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 base.0=/Users/daniel/flutter_template/FlutterTemplate/HostApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex

@@ -1,0 +1,4 @@
+com/cx580/fluttermodule/host/MainActivity.java
+ com.cx580.fluttermodule.host.MainActivity
+com/cx580/fluttermodule/host/BuildConfig.java
+ com.cx580.fluttermodule.host.BuildConfig

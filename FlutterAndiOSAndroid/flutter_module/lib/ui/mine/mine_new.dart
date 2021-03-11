@@ -88,7 +88,7 @@ class _MinePageState extends State<UserPage>
     return ScreenUtilInit(
       designSize: Size(360, 690),
       allowFontScaling: false,
-      child: Column(
+//      child: Column(
 
         // flutter build appbundle --target-platform android-arm
         // theme: ThemeData(
@@ -100,7 +100,7 @@ class _MinePageState extends State<UserPage>
         //   return Routers.run(settings);
         // },
 
-      ),
+//      ),
     );
   }
 

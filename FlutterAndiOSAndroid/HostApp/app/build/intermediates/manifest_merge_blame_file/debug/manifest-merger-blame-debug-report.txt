@@ -14,8 +14,8 @@
 11-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
 11-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
-12-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/589ca4441a99e9844bfb18bb522faebb/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:22-76
+12-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/bfcf66cbe0eda11bec75b1172cebe137/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
+12-->[com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/daniel/.gradle/caches/transforms-2/files-2.1/bfcf66cbe0eda11bec75b1172cebe137/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:22-76
 13
 14    <application
 14-->/Users/daniel/flutter_template/FlutterTemplate/HostApp/app/src/main/AndroidManifest.xml:5:5-35:19
@@ -97,13 +97,13 @@
 58-->[:flutter] /Users/daniel/flutter_template/FlutterTemplate/flutter_module/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-30
 59
 60        <activity
-60-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+60-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
 61            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-61-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+61-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 62            android:exported="false"
-62-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+62-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
 63            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-63-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+63-->[:url_launcher] /Users/daniel/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 64    </application>
 65
 66</manifest>

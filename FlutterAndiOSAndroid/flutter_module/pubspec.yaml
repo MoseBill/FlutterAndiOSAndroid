@@ -30,7 +30,7 @@ dependencies:
 #  #网络
   dio: ^3.0.7
 #  #  webview
-  webview_flutter: ^1.0.7
+  webview_flutter: ^2.0.2
   webview_cookie_manager: ^1.0.5
 #  状态管理
 #    provider: ^3.2.0
@@ -83,11 +83,11 @@ dependencies:
     #  瀑布流
   flutter_staggered_grid_view: ^0.3.2
 
-  flutter_screenutil: ^4.0.2+5
+  flutter_screenutil: ^4.0.3+3
 
     #二维码
   qr_flutter: ^3.2.0
-  intl: ^0.16.1
+  intl: any
 
 
 

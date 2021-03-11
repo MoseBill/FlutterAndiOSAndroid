@@ -37,14 +37,14 @@ DEPENDENCIES:
   - Flutter (from `../flutter_module/.ios/Flutter/engine`)
   - fluttermodule (from `../flutter_module/.ios/Flutter`)
   - FlutterPluginRegistrant (from `../flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
-  - package_info (from `../flutter_module/.ios/Flutter/.symlinks/package_info/ios`)
-  - path_provider (from `../flutter_module/.ios/Flutter/.symlinks/path_provider/ios`)
-  - shared_preferences (from `../flutter_module/.ios/Flutter/.symlinks/shared_preferences/ios`)
-  - sqflite (from `../flutter_module/.ios/Flutter/.symlinks/sqflite/ios`)
-  - url_launcher (from `../flutter_module/.ios/Flutter/.symlinks/url_launcher/ios`)
-  - video_player (from `../flutter_module/.ios/Flutter/.symlinks/video_player/ios`)
-  - webview_cookie_manager (from `../flutter_module/.ios/Flutter/.symlinks/webview_cookie_manager/ios`)
-  - webview_flutter (from `../flutter_module/.ios/Flutter/.symlinks/webview_flutter/ios`)
+  - package_info (from `../flutter_module/.ios/.symlinks/plugins/package_info/ios`)
+  - path_provider (from `../flutter_module/.ios/.symlinks/plugins/path_provider/ios`)
+  - shared_preferences (from `../flutter_module/.ios/.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `../flutter_module/.ios/.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `../flutter_module/.ios/.symlinks/plugins/url_launcher/ios`)
+  - video_player (from `../flutter_module/.ios/.symlinks/plugins/video_player/ios`)
+  - webview_cookie_manager (from `../flutter_module/.ios/.symlinks/plugins/webview_cookie_manager/ios`)
+  - webview_flutter (from `../flutter_module/.ios/.symlinks/plugins/webview_flutter/ios`)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -58,24 +58,24 @@ EXTERNAL SOURCES:
   FlutterPluginRegistrant:
     :path: "../flutter_module/.ios/Flutter/FlutterPluginRegistrant"
   package_info:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/package_info/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/package_info/ios"
   path_provider:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/path_provider/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/path_provider/ios"
   shared_preferences:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/shared_preferences/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/shared_preferences/ios"
   sqflite:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/sqflite/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/sqflite/ios"
   url_launcher:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/url_launcher/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/url_launcher/ios"
   video_player:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/video_player/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/video_player/ios"
   webview_cookie_manager:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/webview_cookie_manager/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/webview_cookie_manager/ios"
   webview_flutter:
-    :path: "../flutter_module/.ios/Flutter/.symlinks/webview_flutter/ios"
+    :path: "../flutter_module/.ios/.symlinks/plugins/webview_flutter/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: ac41d61a47ae5bf8195a5598d2d63754888ec0d5
   fluttermodule: 1e87a427dc93b4a6cfbf91ad1b1dbcd5dad0f4c9
   FlutterPluginRegistrant: fb031754ec90e6b338dc5edb90aaea75d9920b1c
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
@@ -86,8 +86,8 @@ SPEC CHECKSUMS:
   url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
   video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
   webview_cookie_manager: eaf920722b493bd0f7611b5484771ca53fed03f7
-  webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
+  webview_flutter: 9f491a9b5a66f2573946a389b2677987b0ff8c0b
 
-PODFILE CHECKSUM: 7f2fb3ba9cc5f7e08f115dc7f2aa95a9a36d683f
+PODFILE CHECKSUM: 3ba6e4beff9667b4a321f7306e14268dfa3b06eb
 
 COCOAPODS: 1.10.1
